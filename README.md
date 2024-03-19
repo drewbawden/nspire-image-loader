@@ -20,6 +20,8 @@ python parseImage.py -i <input file> -o <output file> -s <output resolution>
 python parseImage.py -i input.png -o output.lua -s 200x250
 ```
 
+#### Load Image
+
 The program will create a .lua file that contains code that must be pasted in the TI-Nspire script editor
 
 This will require the [TI-Nspire Student Software](https://education.ti.com/en/software/details/en/A78091CD540843D68AB8EE5853C84828/student-nspirecx) 
