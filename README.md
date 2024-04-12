@@ -8,6 +8,8 @@ I made this program because I wanted to load images on my graphing calculator bu
 #### Installation
 ```
 git clone https://github.com/drewbawden/nspire-images.git
+
+python -m pip install -r requirements.txt
 ```
 
 #### Usage
